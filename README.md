@@ -67,7 +67,7 @@ sudo ./cpu -max-normal 1500 -cpu-usage-threshold 75
 sudo ./cpu -max-normal 3000 -min-turbo 2000 -cpu-usage-threshold 50
 ```
 
-### Recommended Configuration for Proxmox
+### My configuration for Proxmox and Ryzen 7945HX
 ```bash
 sudo ./cpu -cputype ryzen -min-normal 400 -max-normal 3500 -min-turbo 400 -max-turbo 5450 -cpu-usage-threshold 30
 ```
