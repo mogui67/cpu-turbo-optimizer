@@ -32,7 +32,7 @@ This script allows you to:
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/cpu-turbo-optimizer.git
+git clone https://github.com/mogui67/cpu-turbo-optimizer.git
 cd cpu-turbo-optimizer
 go build cpu.go
 ```
